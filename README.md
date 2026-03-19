@@ -1,4 +1,4 @@
-# 移动端H5招聘平台
+# 移动端H5招聘平台前端原型
 
 一个现代化的移动端招聘平台首页，采用React 18 + Vite + TypeScript + TailwindCSS构建。
 
